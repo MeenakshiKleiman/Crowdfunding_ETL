@@ -19,8 +19,10 @@ Crowdfunding_db_Schema_Tables
 From PGAdmin to create tables.
 Crowdfunding_db_Schema_Display_Tables
 Displays all the tables well populated.
+
 Team Members:
 1. Kristin Bell
 2. Meenakshi Tiwary Kleiman
+
 This project was a collaborative effort, with each team member contributing significantly to every aspect of the overall analysis and presentation.
 Cheers!
