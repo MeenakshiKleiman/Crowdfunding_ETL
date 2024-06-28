@@ -1,9 +1,9 @@
-#ETL Mini Project
-
+ETL Mini Project
+___________________
 We were tasked with building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions. Our goal was to extract and transform the data, create four CSV files, and then use the CSV data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
 This project was completed in less than a week. We divided the work but ensured continuous collaboration and communication to support each other effectively.
-
-##Table of Contents:
+______________________________________________________________________
+Table of Contents:
 Resources
 Contains four CSV files saved from our Jupyter Notebook by coding.
 Includes two XML files provided in the starter code.
